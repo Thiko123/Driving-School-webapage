@@ -1,3 +1,7 @@
-header{
-    color: pink;
+h1{
+    color: rgb(227, 146, 160);
+    font-size: 55px;
+    text-decoration: underline;
+    text-align: center;
+
 }
