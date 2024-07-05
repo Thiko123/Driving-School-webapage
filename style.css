@@ -5,3 +5,11 @@ h1{
     text-align: center;
 
 }
+.page_prev_learners {
+    text-align: center;
+    text-transform: uppercase;
+    border: solid 2px #ccc;
+    background: #FFF;
+    border-radius: 7px;
+    max-width: 300px;
+}
