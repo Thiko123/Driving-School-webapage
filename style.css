@@ -25,3 +25,9 @@ div {
     display: block;
     unicode-bidi: isolate;
 }
+.foot_action {
+    text-align: center;
+    background:black;
+    padding: 1rem;
+    color: #bcbcbc;
+}
